@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MariAzhdari/intro-to-node/issues"
   },
-  "homepage": "https://github.com/MariAzhdari/intro-to-node#readme"
+  "homepage": "https://github.com/MariAzhdari/intro-to-node#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
 }
