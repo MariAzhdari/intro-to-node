@@ -1,0 +1,22 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "This is intro to node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "first node project"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariAzhdari/intro-to-node.git"
+  },
+  "keywords": [
+    "Mqri"
+  ],
+  "author": "Marziyeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariAzhdari/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/MariAzhdari/intro-to-node#readme"
+}
